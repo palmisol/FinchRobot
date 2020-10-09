@@ -1,1 +1,1 @@
-# FinchRobot
+# Finch Robot - Inidividual Project
